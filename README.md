@@ -1,5 +1,7 @@
 # Susan Hair Salon — website demo
 
+[![Susan Hair Salon — desktop light and mobile dark preview](docs/preview.jpg)](https://local-business-demo-collection.netlify.app/susan-hair-salon/)
+
 An independent website concept for Susan Hair Salon in Burien, Washington.
 
 [View the current demo](https://local-business-demo-collection.netlify.app/susan-hair-salon/) · [Public source](https://github.com/deigloriamkeddy/susan-hair-salon-demo)
