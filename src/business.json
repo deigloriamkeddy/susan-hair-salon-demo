@@ -1,0 +1,62 @@
+{
+  "slug": "susan-hair-salon",
+  "short": "Susan",
+  "tag": "HAIR SALON / BURIEN",
+  "layout": "neighborhood",
+  "accent": "#725c35",
+  "paper": "#f4f0e5",
+  "dark": "#25231a",
+  "title": "Good hair.",
+  "italic": "A little closer to home.",
+  "intro": "A fresh shape, an easy style, a moment for yourself. Discover a neighborhood hair salon on 1st Avenue South in Burien.",
+  "hero": "hair-styling",
+  "photos": [
+    "salon",
+    "hair-blonde",
+    "hair-brunette"
+  ],
+  "services": [
+    [
+      "Haircuts",
+      "A refresh shaped around the style you have in mind."
+    ],
+    [
+      "Styling",
+      "Talk about the finish you want for everyday or an occasion."
+    ],
+    [
+      "A new look",
+      "Bring an inspiration photo and discuss what works for you."
+    ],
+    [
+      "Service consultation",
+      "Call to ask about current services and appointment options."
+    ]
+  ],
+  "story": "Start with a conversation.",
+  "storyText": "What do you like about your hair? What would you change? This neighborhood salon concept puts a simple conversation at the heart of planning your next visit.",
+  "cta": "Plan a salon visit",
+  "galleryTitle": "Your next chapter, in style.",
+  "filters": [
+    "All",
+    "Hair",
+    "Atmosphere"
+  ],
+  "source": "https://reviews.birdeye.com/susan-hair-salon-170096642783697",
+  "findings": "Birdeye corroborates address and recent review activity. BestProsInTown corroborates the PDD phone. Review counts differ from the PDD snapshot; no rating or testimonial is republished.",
+  "questions": "Confirm current menu, hours, walk-ins, booking policy and photo permissions.",
+  "name": "Susan Hair Salon",
+  "city": "Burien",
+  "address": "14003 1st Ave S, Burien, WA 98168",
+  "phone": "206-291-6921",
+  "id": 7,
+  "category": "Hair salon",
+  "pdd": "07_susan_hair_salon_PDD.pdf",
+  "gallery": [
+    "hair-styling",
+    "salon",
+    "hair-blonde",
+    "hair-brunette"
+  ],
+  "date": "2026-11-03"
+}
